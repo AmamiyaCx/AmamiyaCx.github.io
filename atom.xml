@@ -6,7 +6,7 @@
   <link href="https://amamiyacx.github.io/atom.xml" rel="self"/>
   
   <link href="https://amamiyacx.github.io/"/>
-  <updated>2022-01-10T07:30:46.459Z</updated>
+  <updated>2022-01-12T06:50:13.691Z</updated>
   <id>https://amamiyacx.github.io/</id>
   
   <author>
@@ -17,23 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://amamiyacx.github.io/2022/01/10/hello-world/"/>
-    <id>https://amamiyacx.github.io/2022/01/10/hello-world/</id>
-    <published>2022-01-10T07:30:00.000Z</published>
-    <updated>2022-01-10T07:30:46.459Z</updated>
+    <title>使用Hexo + Github搭建属于自己的个人博客</title>
+    <link href="https://amamiyacx.github.io/2022/01/12/da-jian-shu-yu-zi-ji-de-ge-ren-bo-ke/"/>
+    <id>https://amamiyacx.github.io/2022/01/12/da-jian-shu-yu-zi-ji-de-ge-ren-bo-ke/</id>
+    <published>2022-01-12T06:44:21.000Z</published>
+    <updated>2022-01-12T06:50:13.691Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;作为一个程序员，平常难免会遇到一些奇怪的问题要解决，或者因为业务需要要学习一些新技能。而能把这些经验整理并分享出来的载体，就属于个人博客了。（其实就是为了那种满足感）&lt;/p&gt;
+&lt;h1 id=&quot;第一步：环境搭建&quot;&gt;&lt;a href=&quot;#第一步：环境搭建&quot;</summary>
         
       
     
     
     
+    <category term="Hexo" scheme="https://amamiyacx.github.io/categories/Hexo/"/>
+    
+    
+    <category term="博客" scheme="https://amamiyacx.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://amamiyacx.github.io/tags/Hexo/"/>
     
   </entry>
   
